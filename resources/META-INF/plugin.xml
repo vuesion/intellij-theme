@@ -1,0 +1,38 @@
+<idea-plugin>
+  <id>com.herokuapp.vuesion</id>
+  <name>Vuesion Theme</name>
+  <version>1.0</version>
+  <vendor email="johannes.werner83@gmail.com" url="https://vuesion.herokuapp.com">vuesion</vendor>
+
+  <description><![CDATA[
+    <p>Vuesion <i>theme</i> and <i>color scheme</i> for IntelliJ®, Webstorm® and other Jetbrains® IDEs.</p>
+    <br/>
+    <p align="center">
+        <img height="64" width="64" alt="owl" src="https://user-images.githubusercontent.com/1667598/55292014-ea98a800-53e5-11e9-82ca-11ba7bb2bbcd.png" />
+    </p>
+    <br/>
+    Theme and color scheme based on the vuesion design system.
+    ]]></description>
+
+  <depends>com.intellij.modules.platform</depends>
+  <depends>com.intellij.modules.lang</depends>
+
+  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
+  <idea-version since-build="173.0"/>
+
+  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+       on how to target different products -->
+  <!-- uncomment to enable plugin in all products
+  <depends>com.intellij.modules.lang</depends>
+  -->
+
+  <extensions defaultExtensionNs="com.intellij">
+    <!-- Add your extensions here -->
+    <themeProvider id="76fa3cce-3d85-455b-a7b6-551f4c8a03d7" path="/META-INF/vuesion_theme.theme.json"/>
+  </extensions>
+
+  <actions>
+    <!-- Add your actions here -->
+  </actions>
+
+</idea-plugin>
