@@ -1,8 +1,8 @@
 <idea-plugin>
   <id>com.herokuapp.vuesion</id>
   <name>Vuesion Theme</name>
-  <version>1.0</version>
-  <vendor email="johannes.werner83@gmail.com" url="https://vuesion.herokuapp.com">vuesion</vendor>
+  <version>1.1</version>
+  <vendor email="johannes.werner86@gmail.com" url="https://vuesion.herokuapp.com">vuesion</vendor>
 
   <description><![CDATA[
     <p>Vuesion <i>theme</i> and <i>color scheme</i> for IntelliJ®, Webstorm® and other Jetbrains® IDEs.</p>
