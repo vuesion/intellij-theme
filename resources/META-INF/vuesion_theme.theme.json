@@ -63,14 +63,6 @@
       "matchForeground": "#f43b6c",
       "matchSelectionForeground": "#FFFFFF"
     },
-    "Component": {
-      "errorFocusColor": "#ff0000",
-      "inactiveErrorFocusColor": "#ff0000",
-      "warningFocusColor": "#ff0000",
-      "inactiveWarningFocusColor": "#ff0000",
-      "iconColor": "#ff0000",
-      "hoverIconColor": "#ff0000"
-    },
     "Counter": {
       "background": "#202831",
       "foreground": "#ececee"
@@ -102,26 +94,6 @@
       "Orange": "#c82600",
       "Rose": "#55616c"
     },
-    "FlameGraph": {
-      "JVMBackground": "#ff0000",
-      "JVMSearchNotMatchedBackground": "#ff0000",
-      "nativeBackground": "#ff0000",
-      "nativeSearchNotMatchedBackground": "#ff0000",
-      "parentBackground": "#ff0000",
-      "parentSearchNotMatchedBackground": "#ff0000",
-      "JVMFocusBackground": "#ff0000",
-      "JVMFocusSearchNotMatchedBackground": "#ff0000",
-      "nativeFocusBackground": "#ff0000",
-      "nativeFocusSearchNotMatchedBackground": "#ff0000",
-      "parentFocusBackground": "#ff0000",
-      "parentFocusSearchNotMatchedBackground": "#ff0000",
-      "JVMFrameForeground": "#ff0000",
-      "nativeFrameForeground": "#ff0000",
-      "parentFrameForeground": "#ff0000",
-      "JVMFocusedFrameForeground": "#ff0000",
-      "nativeFocusedFrameForeground": "#ff0000",
-      "parentFocusedFrameForeground": "#ff0000"
-    },
     "InplaceRefactoringPopup": {
       "borderColor": "#303a45"
     },
@@ -140,8 +112,8 @@
       "MoreButton.innerBorderColor": "#0c1014",
       "ToolWindow": {
         "informativeForeground": "#FFFFFF",
-        "informativeBackground": "#70011f",
-        "informativeBorderColor": "#303a45",
+        "informativeBackground": "#045a3f",
+        "informativeBorderColor": "#045a3f",
         "warningForeground": "#FFFFFF",
         "warningBackground": "#864800",
         "warningBorderColor": "#864800",
@@ -151,11 +123,11 @@
       }
     },
     "ParameterInfo": {
-      "background": "#ff0000",
-      "foreground": "#ff0000",
-      "currentOverloadBackground": "#ff0000",
-      "currentParameterForeground": "#ff0000",
-      "lineSeparatorColor": "#ff0000"
+      "background": "#303a45",
+      "foreground": "#ececee",
+      "currentOverloadBackground": "#303a45",
+      "currentParameterForeground": "#f3c811",
+      "lineSeparatorColor": "#434e5b"
     },
     "Plugins": {
       "Tab": {

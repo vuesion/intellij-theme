@@ -1,21 +1,23 @@
 <idea-plugin>
   <id>com.herokuapp.vuesion</id>
   <name>Vuesion Theme</name>
-  <version>1.3</version>
+  <version>1.4</version>
   <vendor email="johannes.werner86@gmail.com" url="https://vuesion.herokuapp.com">vuesion</vendor>
   <idea-version since-build="191.0"/>
 
   <description><![CDATA[
     <p>Vuesion <i>theme</i> and <i>color scheme</i> for IntelliJ®, Webstorm® and other Jetbrains® IDEs.</p>
     <br/>
-    <p align="center">
-        <img height="64" width="64" alt="owl" src="https://user-images.githubusercontent.com/1667598/55292014-ea98a800-53e5-11e9-82ca-11ba7bb2bbcd.png" />
-    </p>
-    <br/>
-    Theme and color scheme based on the vuesion color scheme.
+    Theme and color scheme based on the <a href="https://github.com/vuesion/vuesion" target="_blank">vuesion project</a>.
     ]]></description>
 
-  <change-notes>This is the initial release of this theme-plugin.</change-notes>
+  <change-notes><![CDATA[
+    <ul>
+      <li>fix colors for parameter info</li>
+      <li>change color of info notification to green</li>
+      <li>fix selected back- and foreground</li>
+    </ul>
+    ]]></change-notes>
 
   <depends>com.intellij.modules.platform</depends>
   <depends>com.intellij.modules.lang</depends>
