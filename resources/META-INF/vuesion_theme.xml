@@ -1,10 +1,10 @@
 <scheme name="vuesion-theme" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-04-18T11:55:11</property>
+    <property name="created">2019-04-20T17:20:05</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-04-18T11:55:12</property>
+    <property name="modified">2019-04-20T17:20:08</property>
     <property name="originalScheme">_@user_vuesion-theme</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -15,22 +15,29 @@
   <option name="CONSOLE_LIGATURES" value="true" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="40bf77" />
-    <option name="CARET_COLOR" value="ffffff" />
-    <option name="CARET_ROW_COLOR" value="303a45" />
+    <option name="CARET_COLOR" value="ececee" />
+    <option name="CARET_ROW_COLOR" value="182029" />
     <option name="CONSOLE_BACKGROUND_KEY" value="202831" />
     <option name="DELETED_LINES_COLOR" value="303a45" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="303a45" />
+    <option name="DOCUMENTATION_COLOR" value="303a45" />
+    <option name="ERROR_HINT" value="70011f" />
     <option name="FILESTATUS_ADDED" value="40bf77" />
     <option name="FILESTATUS_UNKNOWN" value="f9846c" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="f43b6c" />
     <option name="GUTTER_BACKGROUND" value="202831" />
     <option name="INDENT_GUIDE" value="303a45" />
+    <option name="INFORMATION_HINT" value="434e5b" />
     <option name="LINE_NUMBERS_COLOR" value="55616c" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="c9cbcf" />
     <option name="MODIFIED_LINES_COLOR" value="55616c" />
+    <option name="NOTIFICATION_BACKGROUND" value="434e5b" />
+    <option name="QUESTION_HINT" value="61a6f3" />
     <option name="RIGHT_MARGIN_COLOR" value="434e5b" />
     <option name="SELECTION_BACKGROUND" value="9ca2aa" />
     <option name="SELECTION_FOREGROUND" value="202831" />
     <option name="TEARLINE_COLOR" value="303a45" />
+    <option name="WHITESPACES" value="6f7a86" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="55616c" />
   </colors>
   <attributes>
@@ -562,14 +569,15 @@
     </option>
     <option name="DELETED_TEXT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ff5370" />
-        <option name="EFFECT_COLOR" value="c14360" />
+        <option name="FOREGROUND" value="f43b6c" />
+        <option name="EFFECT_COLOR" value="f43b6c" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
     <option name="DEPRECATED_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="3d8beb" />
+        <option name="FOREGROUND" value="55616c" />
+        <option name="EFFECT_COLOR" value="55616c" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -622,9 +630,9 @@
     </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="de3700" />
-        <option name="EFFECT_COLOR" value="ffffff" />
-        <option name="ERROR_STRIPE_COLOR" value="de3700" />
+        <option name="FOREGROUND" value="e84606" />
+        <option name="EFFECT_COLOR" value="e84606" />
+        <option name="ERROR_STRIPE_COLOR" value="e84606" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -1020,8 +1028,8 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="fffbf7" />
-        <option name="ERROR_STRIPE_COLOR" value="4d6168" />
+        <option name="EFFECT_COLOR" value="6f7a86" />
+        <option name="ERROR_STRIPE_COLOR" value="6f7a86" />
       </value>
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
@@ -1037,8 +1045,8 @@
     </option>
     <option name="INFO_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="40bf77" />
-        <option name="ERROR_STRIPE_COLOR" value="40bf77" />
+        <option name="EFFECT_COLOR" value="d5aa00" />
+        <option name="ERROR_STRIPE_COLOR" value="d5aa00" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -1237,18 +1245,23 @@
     <option name="LESS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD" />
     <option name="LINE_FULL_COVERAGE">
       <value>
-        <option name="BACKGROUND" value="264b33" />
+        <option name="BACKGROUND" value="45a3f" />
       </value>
     </option>
     <option name="LINE_NONE_COVERAGE">
       <value>
-        <option name="BACKGROUND" value="4b1515" />
+        <option name="BACKGROUND" value="770600" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
     <option name="LINE_PARTIAL_COVERAGE">
       <value>
-        <option name="BACKGROUND" value="12404b" />
+        <option name="BACKGROUND" value="864800" />
+      </value>
+    </option>
+    <option name="LIVE_TEMPLATE_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="f43b6c" />
       </value>
     </option>
     <option name="LOG_DEBUG_OUTPUT">
@@ -2053,6 +2066,7 @@
     </option>
     <option name="MARKED_FOR_REMOVAL_ATTRIBUTES">
       <value>
+        <option name="FOREGROUND" value="55616c" />
         <option name="EFFECT_COLOR" value="de3700" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
@@ -2992,7 +3006,8 @@
     <option name="SASS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD" />
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="5f7e97" />
+        <option name="FOREGROUND" value="202831" />
+        <option name="BACKGROUND" value="f3c811" />
       </value>
     </option>
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
@@ -3309,8 +3324,8 @@
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="5f7e97" />
-        <option name="EFFECT_COLOR" value="5f7e97" />
+        <option name="BACKGROUND" value="434e5b" />
+        <option name="EFFECT_COLOR" value="434e5b" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
@@ -3362,32 +3377,38 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
+    <option name="UNMATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="e84606" />
+      </value>
+    </option>
     <option name="VELOCITY_DIRECTIVE" baseAttributes="" />
     <option name="VELOCITY_KEYWORD" baseAttributes="" />
     <option name="VELOCITY_REFERENCE" baseAttributes="" />
     <option name="VELOCITY_SCRIPTING_BACKGROUND" baseAttributes="" />
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="fc6293" />
-        <option name="ERROR_STRIPE_COLOR" value="fc6293" />
+        <option name="FOREGROUND" value="d5aa00" />
+        <option name="EFFECT_COLOR" value="d5aa00" />
+        <option name="ERROR_STRIPE_COLOR" value="d5aa00" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="fffbf7" />
-        <option name="ERROR_STRIPE_COLOR" value="4d6168" />
+        <option name="EFFECT_COLOR" value="6f7a86" />
+        <option name="ERROR_STRIPE_COLOR" value="6f7a86" />
       </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="1e3445" />
-        <option name="BACKGROUND" value="f8e71c" />
+        <option name="FOREGROUND" value="202831" />
+        <option name="BACKGROUND" value="40bf77" />
       </value>
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="de3700" />
+        <option name="FOREGROUND" value="e84606" />
       </value>
     </option>
     <option name="XML_ATTRIBUTE_NAME">
