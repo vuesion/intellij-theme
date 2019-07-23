@@ -8,7 +8,7 @@
       "background": "#202831",
       "foreground": "#c9cbcf",
       "infoForeground": "#6f7a86",
-      "selectionBackground": "#303a45",
+      "selectionBackground": "#202831",
       "selectionForeground": "#ececee",
       "selectionInactiveBackground": "#303a45",
       "selectionBackgroundInactive": "#303a45",

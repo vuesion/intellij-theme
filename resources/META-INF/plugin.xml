@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>com.herokuapp.vuesion</id>
   <name>Vuesion Theme</name>
-  <version>1.5</version>
+  <version>1.6</version>
   <vendor email="johannes.werner86@gmail.com" url="https://vuesion.herokuapp.com">vuesion</vendor>
   <idea-version since-build="191.0"/>
 
@@ -13,7 +13,7 @@
 
   <change-notes><![CDATA[
     <ul>
-      <li>better distinction between errors and warnings</li>
+      <li>fix selection color of the autocompletion feature in the editor</li>
     </ul>
     ]]></change-notes>
 
