@@ -1,9 +1,9 @@
 <idea-plugin>
   <id>com.herokuapp.vuesion</id>
   <name>Vuesion Theme</name>
-  <version>1.6</version>
+  <version>1.7</version>
   <vendor email="johannes.werner86@gmail.com" url="https://vuesion.herokuapp.com">vuesion</vendor>
-  <idea-version since-build="191.0"/>
+  <idea-version since-build="192.0"/>
 
   <description><![CDATA[
     <p>Vuesion <i>theme</i> and <i>color scheme</i> for IntelliJ®, Webstorm® and other Jetbrains® IDEs.</p>
@@ -13,7 +13,7 @@
 
   <change-notes><![CDATA[
     <ul>
-      <li>fix selection color of the autocompletion feature in the editor</li>
+      <li>fix: several issues related to the new 2019.2 version of IDEA</li>
     </ul>
     ]]></change-notes>
 
