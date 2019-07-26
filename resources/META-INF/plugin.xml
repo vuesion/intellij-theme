@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>com.herokuapp.vuesion</id>
   <name>Vuesion Theme</name>
-  <version>1.7</version>
+  <version>1.8</version>
   <vendor email="johannes.werner86@gmail.com" url="https://vuesion.herokuapp.com">vuesion</vendor>
   <idea-version since-build="192.0"/>
 
@@ -13,7 +13,7 @@
 
   <change-notes><![CDATA[
     <ul>
-      <li>fix: several issues related to the new 2019.2 version of IDEA</li>
+      <li>fix: color contrast issue with question hints</li>
     </ul>
     ]]></change-notes>
 

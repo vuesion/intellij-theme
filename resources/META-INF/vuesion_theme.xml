@@ -1,5 +1,4 @@
 <scheme name="vuesion-theme" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2019-04-20T17:20:05</property>
     <property name="ide">WebStorm</property>
@@ -7,12 +6,6 @@
     <property name="modified">2019-04-20T17:20:08</property>
     <property name="originalScheme">_@user_vuesion-theme</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="EDITOR_FONT_NAME" value="Fira Code" />
-  <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="Fira Code" />
-  <option name="CONSOLE_LIGATURES" value="true" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="40bf77" />
     <option name="CARET_COLOR" value="ececee" />
@@ -27,18 +20,20 @@
     <option name="FOLDED_TEXT_BORDER_COLOR" value="f43b6c" />
     <option name="GUTTER_BACKGROUND" value="202831" />
     <option name="INDENT_GUIDE" value="303a45" />
-    <option name="INFORMATION_HINT" value="434e5b" />
     <option name="LINE_NUMBERS_COLOR" value="55616c" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="c9cbcf" />
     <option name="MODIFIED_LINES_COLOR" value="55616c" />
     <option name="NOTIFICATION_BACKGROUND" value="434e5b" />
-    <option name="QUESTION_HINT" value="61a6f3" />
+    <option name="QUESTION_HINT" value="303a45" />
     <option name="RIGHT_MARGIN_COLOR" value="434e5b" />
     <option name="SELECTION_BACKGROUND" value="9ca2aa" />
     <option name="SELECTION_FOREGROUND" value="202831" />
     <option name="TEARLINE_COLOR" value="303a45" />
     <option name="WHITESPACES" value="6f7a86" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="55616c" />
+    <option name="INFORMATION_HINT" value="303a45" />
+    <option name="RECENT_LOCATIONS_SELECTION" value="303a45" />
+    <option name="TOOLTIP" value="303a45" />
   </colors>
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
@@ -375,7 +370,7 @@
         <option name="FOREGROUND" value="40bf77" />
       </value>
     </option>
-    <option name="Class" baseAttributes="" />
+    <option name="Class" baseAttributes="CLASS_NAME_ATTRIBUTES" />
     <option name="DEFAULT_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="40bf77" />
@@ -2507,10 +2502,10 @@
     <option name="PHP_VAR_VAR">
       <value />
     </option>
-    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="" />
-    <option name="PROPERTIES.KEY" baseAttributes="" />
-    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="" />
-    <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="" />
+    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
+    <option name="PROPERTIES.KEY" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="DEFAULT_OPERATION_SIGN" />
+    <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="PROTOCOL_REFERENCE">
       <value>
         <option name="FOREGROUND" value="219598" />
@@ -3307,9 +3302,9 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="Static method access" baseAttributes="" />
-    <option name="TAPESTRY_COMPONENT_PARAMATER" baseAttributes="" />
-    <option name="TAPESTRY_COMPONENT_TAG" baseAttributes="" />
+    <option name="Static method access" baseAttributes="STATIC_METHOD_ATTRIBUTES" />
+    <option name="TAPESTRY_COMPONENT_PARAMATER" baseAttributes="HTML_ATTRIBUTE_NAME" />
+    <option name="TAPESTRY_COMPONENT_TAG" baseAttributes="HTML_TAG_NAME" />
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="f43b6c" />
@@ -3382,10 +3377,10 @@
         <option name="FOREGROUND" value="e84606" />
       </value>
     </option>
-    <option name="VELOCITY_DIRECTIVE" baseAttributes="" />
-    <option name="VELOCITY_KEYWORD" baseAttributes="" />
-    <option name="VELOCITY_REFERENCE" baseAttributes="" />
-    <option name="VELOCITY_SCRIPTING_BACKGROUND" baseAttributes="" />
+    <option name="VELOCITY_DIRECTIVE" baseAttributes="JSP_DIRECTIVE_NAME" />
+    <option name="VELOCITY_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="VELOCITY_REFERENCE" baseAttributes="JSP_ATTRIBUTE_NAME" />
+    <option name="VELOCITY_SCRIPTING_BACKGROUND" baseAttributes="JSP_SCRIPTING_BACKGROUND" />
     <option name="WARNING_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="d5aa00" />
@@ -3457,8 +3452,8 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
-    <option name="osmorc.attributeName" baseAttributes="" />
-    <option name="osmorc.directiveName" baseAttributes="" />
+    <option name="osmorc.attributeName" baseAttributes="DEFAULT_INSTANCE_FIELD" />
+    <option name="osmorc.directiveName" baseAttributes="DEFAULT_INSTANCE_FIELD" />
     <option name="osmorc.headerName">
       <value>
         <option name="FOREGROUND" value="a7dbd8" />
@@ -3466,4 +3461,11 @@
       </value>
     </option>
   </attributes>
+  <option name="FONT_SCALE" value="1.0" />
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_NAME" value="Fira Code" />
+  <option name="EDITOR_LIGATURES" value="true" />
+  <option name="CONSOLE_FONT_NAME" value="Fira Code" />
+  <option name="CONSOLE_LIGATURES" value="true" />
 </scheme>
