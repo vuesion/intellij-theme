@@ -3325,8 +3325,9 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="55616c" />
+        <option name="FOREGROUND" value="ffe15c" />
         <option name="FONT_TYPE" value="2" />
+        <option name="ERROR_STRIPE_COLOR" value="f9846c" />
       </value>
     </option>
     <option name="TS.INTERFACE">
