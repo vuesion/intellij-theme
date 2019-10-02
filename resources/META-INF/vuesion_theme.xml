@@ -14,26 +14,27 @@
     <option name="DELETED_LINES_COLOR" value="303a45" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="303a45" />
     <option name="DOCUMENTATION_COLOR" value="303a45" />
-    <option name="ERROR_HINT" value="70011f" />
+    <option name="ERROR_HINT" value="770600" />
     <option name="FILESTATUS_ADDED" value="40bf77" />
     <option name="FILESTATUS_UNKNOWN" value="f9846c" />
-    <option name="FOLDED_TEXT_BORDER_COLOR" value="f43b6c" />
+    <option name="FOLDED_TEXT_BORDER_COLOR" value="d8ecfe" />
     <option name="GUTTER_BACKGROUND" value="202831" />
     <option name="INDENT_GUIDE" value="303a45" />
+    <option name="INFORMATION_HINT" value="303a45" />
     <option name="LINE_NUMBERS_COLOR" value="55616c" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="c9cbcf" />
     <option name="MODIFIED_LINES_COLOR" value="55616c" />
     <option name="NOTIFICATION_BACKGROUND" value="434e5b" />
     <option name="QUESTION_HINT" value="303a45" />
+    <option name="RECENT_LOCATIONS_SELECTION" value="303a45" />
     <option name="RIGHT_MARGIN_COLOR" value="434e5b" />
+    <option name="SELECTED_INDENT_GUIDE" value="6f7a86" />
     <option name="SELECTION_BACKGROUND" value="9ca2aa" />
     <option name="SELECTION_FOREGROUND" value="202831" />
     <option name="TEARLINE_COLOR" value="303a45" />
+    <option name="TOOLTIP" value="303a45" />
     <option name="WHITESPACES" value="6f7a86" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="55616c" />
-    <option name="INFORMATION_HINT" value="303a45" />
-    <option name="RECENT_LOCATIONS_SELECTION" value="303a45" />
-    <option name="TOOLTIP" value="303a45" />
   </colors>
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
@@ -638,7 +639,7 @@
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="f3f349" />
+        <option name="FOREGROUND" value="d8ecfe" />
       </value>
     </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
@@ -1190,11 +1191,6 @@
     <option name="KOTLIN_DYNAMIC_PROPERTY_CALL">
       <value>
         <option name="FOREGROUND" value="f9846c" />
-      </value>
-    </option>
-    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
-      <value>
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="KOTLIN_IMPLICIT_EXHAUSTIVE_WHEN">
@@ -3001,8 +2997,9 @@
     <option name="SASS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD" />
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="202831" />
-        <option name="BACKGROUND" value="f3c811" />
+        <option name="FOREGROUND" value="ececee" />
+        <option name="BACKGROUND" value="202831" />
+        <option name="EFFECT_COLOR" value="d8ecfe" />
       </value>
     </option>
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
@@ -3319,8 +3316,8 @@
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="434e5b" />
-        <option name="EFFECT_COLOR" value="434e5b" />
+        <option name="BACKGROUND" value="202831" />
+        <option name="EFFECT_COLOR" value="d8ecfe" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
@@ -3398,8 +3395,9 @@
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="202831" />
-        <option name="BACKGROUND" value="40bf77" />
+        <option name="FOREGROUND" value="ececee" />
+        <option name="BACKGROUND" value="202831" />
+        <option name="EFFECT_COLOR" value="d8ecfe" />
       </value>
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
