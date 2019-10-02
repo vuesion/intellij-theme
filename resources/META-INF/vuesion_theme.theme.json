@@ -108,7 +108,7 @@
 
     "DefaultTabs": {
       "underlineColor": "#3d8beb",
-      "inactiveUnderlineColor": "#303a45",
+      "inactiveUnderlineColor": "#8dc3f9",
       "underlineHeight": 1,
       "hoverBackground": "#303a45"
     },
@@ -131,7 +131,7 @@
       "underlineColor": "#3d8beb",
       "underlineHeight": 1,
 
-      "underlinedTabBackground": "#202831",
+      "underlinedTabBackground": "#303a45",
       "inactiveColoredFileBackground": "#202831"
     },
 
@@ -353,9 +353,11 @@
         "selectedInactiveBackground": "#303a45",
         "hoverBackground": "#303a45",
         "hoverInactiveBackground": "#303a45",
+        "underlinedTabInactiveBackground": "#303a45",
+        "underlinedTabBackground": "#303a45",
 
         "underlineColor": "#3d8beb",
-        "inactiveUnderlineColor": "#303a45",
+        "inactiveUnderlineColor": "#8dc3f9",
         "underlineHeight": 1
       },
 
