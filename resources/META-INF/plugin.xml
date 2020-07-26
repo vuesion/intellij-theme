@@ -13,7 +13,7 @@
 
   <change-notes><![CDATA[
     <ul>
-      <li>fix(completion-popup): mote contrast for selected items</li>
+      <li>fix(completion-popup): more contrast for selected items</li>
       <li>fix(scrollbar): change hover style</li>
     </ul>
     ]]></change-notes>
