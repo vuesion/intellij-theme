@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>com.herokuapp.vuesion</id>
   <name>Vuesion Theme</name>
-  <version>1.9</version>
+  <version>1.9.1</version>
   <vendor email="johannes.werner86@gmail.com" url="https://vuesion.herokuapp.com">vuesion</vendor>
   <idea-version since-build="192.0"/>
 
@@ -13,8 +13,8 @@
 
   <change-notes><![CDATA[
     <ul>
-      <li>fix: change colors of selected/searched text</li>
-      <li>change behavior of selected tabs</li>
+      <li>fix(completion-popup): mote contrast for selected items</li>
+      <li>fix(scrollbar): change hover style</li>
     </ul>
     ]]></change-notes>
 
