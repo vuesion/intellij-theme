@@ -3022,7 +3022,7 @@
     </option>
     <option name="Scala Abstract class">
       <value>
-        <option name="FOREGROUND" value="c3e88d" />
+        <option name="FOREGROUND" value="c76bff" />
       </value>
     </option>
     <option name="Scala Annotation attribute name">
@@ -3210,7 +3210,7 @@
     </option>
     <option name="Scala Trait">
       <value>
-        <option name="FOREGROUND" value="c3e88d" />
+        <option name="FOREGROUND" value="c76bff" />
       </value>
     </option>
     <option name="Scala Type Alias">
