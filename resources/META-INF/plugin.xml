@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>com.herokuapp.vuesion</id>
   <name>Vuesion Theme</name>
-  <version>1.9.1</version>
+  <version>1.9.2</version>
   <vendor email="johannes.werner86@gmail.com" url="https://vuesion.herokuapp.com">vuesion</vendor>
   <idea-version since-build="192.0"/>
 
@@ -13,8 +13,7 @@
 
   <change-notes><![CDATA[
     <ul>
-      <li>fix(completion-popup): more contrast for selected items</li>
-      <li>fix(scrollbar): change hover style</li>
+      <li>fix: update color of Scala traits & abstract classes</li>
     </ul>
     ]]></change-notes>
 
